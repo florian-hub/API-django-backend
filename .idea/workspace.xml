@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1062bb24-f4d6-4e3c-bd28-72344ec2b724" name="Default Changelist" comment="Setting up project with creation of the project movierater and the app api creation of the configuration">
-      <change afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movierater/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/movierater/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movierater/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/movierater/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,21 +108,21 @@
       <screen x="72" y="27" width="1528" height="873" />
     </state>
     <state x="954" y="317" width="519" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1528.873@72.27.1528.873" timestamp="1591781906128" />
-    <state width="737" height="216" key="GridCell.Tab.0.bottom" timestamp="1591781869116">
+    <state width="741" height="216" key="GridCell.Tab.0.bottom" timestamp="1591782601987">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="737" height="216" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1591781869116" />
-    <state width="737" height="216" key="GridCell.Tab.0.center" timestamp="1591781869116">
+    <state width="741" height="216" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1591782601987" />
+    <state width="741" height="216" key="GridCell.Tab.0.center" timestamp="1591782601985">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="737" height="216" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1591781869116" />
-    <state width="737" height="216" key="GridCell.Tab.0.left" timestamp="1591781869116">
+    <state width="741" height="216" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1591782601985" />
+    <state width="741" height="216" key="GridCell.Tab.0.left" timestamp="1591782601985">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="737" height="216" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1591781869116" />
-    <state width="737" height="216" key="GridCell.Tab.0.right" timestamp="1591781869116">
+    <state width="741" height="216" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1591782601985" />
+    <state width="741" height="216" key="GridCell.Tab.0.right" timestamp="1591782601986">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="737" height="216" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1591781869116" />
+    <state width="741" height="216" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1591782601986" />
   </component>
 </project>
