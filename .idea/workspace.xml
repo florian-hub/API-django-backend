@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1062bb24-f4d6-4e3c-bd28-72344ec2b724" name="Default Changelist" comment="Setting up project with creation of the project movierater and the app api creation of the configuration">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +34,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/api/serializers.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1dAoRk0X9wzNOKuweqvVjDcyrhs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
@@ -76,6 +89,13 @@
       <option name="project" value="LOCAL" />
       <updated>1591781071600</updated>
     </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1062bb24-f4d6-4e3c-bd28-72344ec2b724" name="Default Changelist" comment="Setting up project with creation of the project movierater and the app api creation of the configuration" />
+      <created>1591877255753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591877255753</updated>
+    </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
@@ -96,6 +116,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Setting up project with creation of the project movierater and the app api creation of the configuration" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="850" y="140" width="732" height="649" key="#Inspections" timestamp="1591877447238">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="850" y="140" width="732" height="649" key="#Inspections/72.27.1528.873@72.27.1528.873" timestamp="1591877447238" />
     <state x="524" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591781930270">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
@@ -108,21 +132,25 @@
       <screen x="72" y="27" width="1528" height="873" />
     </state>
     <state x="954" y="317" width="519" height="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1528.873@72.27.1528.873" timestamp="1591781906128" />
-    <state width="741" height="216" key="GridCell.Tab.0.bottom" timestamp="1591782601987">
+    <state x="1002" y="222" width="424" height="496" key="FileChooserDialogImpl" timestamp="1591877341532">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="741" height="216" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1591782601987" />
-    <state width="741" height="216" key="GridCell.Tab.0.center" timestamp="1591782601985">
+    <state x="1002" y="222" width="424" height="496" key="FileChooserDialogImpl/72.27.1528.873@72.27.1528.873" timestamp="1591877341532" />
+    <state width="737" height="216" key="GridCell.Tab.0.bottom" timestamp="1591877994116">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="741" height="216" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1591782601985" />
-    <state width="741" height="216" key="GridCell.Tab.0.left" timestamp="1591782601985">
+    <state width="737" height="216" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1591877994116" />
+    <state width="737" height="216" key="GridCell.Tab.0.center" timestamp="1591877994116">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="741" height="216" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1591782601985" />
-    <state width="741" height="216" key="GridCell.Tab.0.right" timestamp="1591782601986">
+    <state width="737" height="216" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1591877994116" />
+    <state width="737" height="216" key="GridCell.Tab.0.left" timestamp="1591877994115">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="741" height="216" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1591782601986" />
+    <state width="737" height="216" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1591877994115" />
+    <state width="737" height="216" key="GridCell.Tab.0.right" timestamp="1591877994116">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state width="737" height="216" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1591877994116" />
   </component>
 </project>
