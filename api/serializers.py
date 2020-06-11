@@ -1,5 +1,16 @@
 from rest_framework import serializers
 from .models import Movie,Rating
+from django.contrib.auth.models import User
+
+
+class UserSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ('id', 'username','password')
+        extra_kwarg = {'password' : {'write_only':True, 'required':True}}
+    def create(self,validate_data):
+        user = User.objects.create_user(**validate_data)
+        return user
 
 
 class MovieSerializer(serializers.ModelSerializer):
